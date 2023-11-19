@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>sunalytics</title>
+        <link rel="icon" href="images/icon.png"/>
+
+        <link rel="stylesheet" href="sun.css">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter|Agbalumo">
+    </head>
+
+    <body>
+        <h1>Sunalytics</h1>
+        
+        <br>
+
+        <div class="input-container">
+            <h3>Iradiância (W/m²)</h3>
+            <input type="text" placeholder="Irradiância solar" id="irradiancia"></input>
+        </div>
+
+        <div class="input-container">
+            <h3>Temperatura (ºC)</h3>
+            <input type="text" placeholder="temperatura do painel" id="temperatura"></input>
+        </div>
+
+        <button onclick="pegaValores();" class="simulation">Simular</button>
+
+        <div id="result-container"></div>
+
+        <script src="sun.js"></script>  
+    </body>
+</html>
