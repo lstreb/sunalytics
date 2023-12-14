@@ -79,6 +79,7 @@ input,
     padding: 10px 20px;
 }
 
+.graph-container,
 .simulation,
 .result,
 .result-title {
@@ -95,4 +96,9 @@ input,
     height: 100px;
     width: 250px;
     line-height: 80px;
+}
+
+.graph-container {
+    height: 700px;
+    width: 900px;
 }
