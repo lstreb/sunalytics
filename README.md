@@ -1,7 +1,10 @@
 # sunalytics :sun_with_face:
 
 ## objetivo
-    Este projeto consiste em um simulador web que permite aos usuários inserir valores de irradiância solar e temperatura do painel fotovoltaico. Com base nesses parâmetros, o simulador calcula e exibe a potência máxima de um painel predefinido nessas condições específicas. Além disso, a curva característica (gráfico da corrente pela tensão) também é exibido.
+    Este projeto consiste em um simulador web que permite aos usuários inserir valores de irradiância solar 
+    e temperatura do painel fotovoltaico. Com base nesses parâmetros, o simulador calcula e exibe a potência 
+    máxima de um painel predefinido nessas condições específicas. Além disso, a curva característica (gráfico 
+    da corrente pela tensão) também é exibido.
 
 ## design
     <img src="design/sunalytics_design_1.jpg">
