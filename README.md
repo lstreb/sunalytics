@@ -6,6 +6,6 @@
 ## design
     <img src="design/sunalytics_design_1.jpg">
     <img src="design/sunalytics_design_2.jpg">
-
+    
 ## melhorias futuras
     Atualmente, o simulador é projetado para calcular a potência máxima de um painel fotovoltaico específico com base em parâmetros predefinidos. No entanto, é possível expandir o escopo do simulador, tornando-o adaptável a diferentes tipos de painéis solares, desde que o usuário inserisse uma série de parâmetros referentes ao seu painel.
